@@ -1,0 +1,7 @@
+C:\Users\aline\source\repos\HaliYikamaTakipSistemi\HaliYikamaTakipSistemi\obj\Debug\HaliYikamaTakipSistemi.csproj.AssemblyReference.cache
+C:\Users\aline\source\repos\HaliYikamaTakipSistemi\HaliYikamaTakipSistemi\obj\Debug\HaliYikamaTakipSistemi.Form1.resources
+C:\Users\aline\source\repos\HaliYikamaTakipSistemi\HaliYikamaTakipSistemi\obj\Debug\HaliYikamaTakipSistemi.Form2.resources
+C:\Users\aline\source\repos\HaliYikamaTakipSistemi\HaliYikamaTakipSistemi\obj\Debug\HaliYikamaTakipSistemi.FormDurumTakip.resources
+C:\Users\aline\source\repos\HaliYikamaTakipSistemi\HaliYikamaTakipSistemi\obj\Debug\HaliYikamaTakipSistemi.Properties.Resources.resources
+C:\Users\aline\source\repos\HaliYikamaTakipSistemi\HaliYikamaTakipSistemi\obj\Debug\HaliYikamaTakipSistemi.csproj.GenerateResource.cache
+C:\Users\aline\source\repos\HaliYikamaTakipSistemi\HaliYikamaTakipSistemi\obj\Debug\HaliYikamaTakipSistemi.csproj.CoreCompileInputs.cache
